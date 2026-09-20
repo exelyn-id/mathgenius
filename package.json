@@ -13,7 +13,7 @@
     "embla-carousel-react": "^8.6.0",
     "framer-motion": "^12.0.0",
     "lucide-react": "^0.475.0",
-    "next": "15.0.3",
+    "next": "^15.1.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "tailwind-merge": "^3.0.0"
@@ -24,7 +24,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.0.3",
+    "eslint-config-next": "^15.1.0",
     "sharp": "^0.33.5",
     "tailwindcss": "^4.0.0",
     "typescript": "^5"
